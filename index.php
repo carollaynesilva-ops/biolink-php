@@ -9,7 +9,7 @@ $imagem = "https://i.pinimg.com/736x/b6/d6/4a/b6d64acd3d3211d8f10a6f3a43799225.j
 
 $links = [
   "Instagram" => "https://instagram.com/Carol_ferreira0411",
-  "WhatsApp" => "https://wa.me/(17)99645-9940",
+  "WhatsApp" => "https://wa.me/551799645-9940",
   "Meu Jogo Favorito" => "https://www.google.com/search?gs_ssp=eJzj4tVP1zc0LCtJMsnOMMo1YPTizkktS81RSEkty8wBAHveCQM&q=level+devil&oq=le&gs_lcrp=EgZjaHJvbWUqCggCEC4YsQMYgAQyBggAEEUYOTIQCAEQLhjHARixAxjRAxiABDIKCAIQLhixAxiABDIKCAMQLhixAxiABDIWCAQQLhiDARjHARixAxjRAxiABBiKBTIGCAUQRRg9MgYIBhBFGD0yBggHEEUYPNIBCDM0NDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
   "Música do Momento" => "https://www.youtube.com/watch?v=GJ2v96T9xOk&list=RDGJ2v96T9xOk&start_radio=1"
 ];
@@ -52,7 +52,6 @@ $links = [
                     $texto
                     </a>";
             }
-
             ?>
         </div>
     </div>

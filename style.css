@@ -1,0 +1,51 @@
+body {
+background-color: #1a1a2e;
+color: #ffffff;
+font-family: Arial, sans-serif;
+text-align: center;
+}
+.container {
+max-width: 400px;
+margin: 0 auto;
+padding: 20px;
+}
+.avatar {
+width: 120px;
+border-radius: 50%;
+border: 3px solid #f8318e;
+}
+.btn {
+display: block;
+background-color: #16213e;
+color: white;
+padding: 15px;
+margin: 10px 0;
+text-decoration: none;
+border-radius: 8px;
+transition: 0.3s;
+}
+.btn:hover {
+background-color: #0f3460;
+transform: scale(1.02);
+}
+/* DESAFIO: Estilize o botão especial */
+.destaque {
+display: block;
+background-color: rgb(219, 105, 175);
+color: rgb(255, 255, 255);
+padding: 15px;
+margin: 10px 0;
+text-decoration: none;
+border-radius: 8px;
+transition: 0.3s;
+}
+.destaque:hover {
+display: block;
+background-color: rgb(255, 255, 255);
+color: rgb(250, 0, 162);
+padding: 15px;
+margin: 10px 0;
+text-decoration: none;
+border-radius: 8px;
+transition: 0.3s;
+}
