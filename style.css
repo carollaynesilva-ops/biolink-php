@@ -49,3 +49,89 @@ text-decoration: none;
 border-radius: 8px;
 transition: 0.3s;
 }
+
+
+.area-contato {
+margin-top: 30px;
+border-top: 1px solid #333;
+padding-top: 20px;
+}
+.btn-msg {
+display: inline-block;
+background-color: #ff279e;
+color: white;
+padding: 10px 20px;
+text-decoration: none;
+border-radius: 5px;
+font-weight: bold;
+transition: 0.3s;
+}
+.btn-msg:hover {
+background-color: #ffffff;
+transform: scale(1.1);
+color: #ff279e;
+}
+
+
+.campo-texto {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+}
+
+form button {
+    width: 95%;
+    padding: 12px;
+    margin-top: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #00ff88;
+    color: #003311;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+form button:hover {
+    opacity: 0.8;
+}
+
+.btn-voltar {
+    display: inline-block;
+    margin-top: 25px;
+    padding: 8px 20px;
+    border: 1px solid rgba(255,255,255, 0.5);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 14px;
+    transition: 0.3s;
+    background-color: #f8318e;
+}
+
+.btn-voltar:hover {
+    background-color: white;
+    color:#f8318e;
+    border-color: white;
+}
+
+.erro {
+    color: #ff4444;
+    background: #330000;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.sucesso {
+    color: #00ff88;
+    background: #003311;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.container{
+    background-color: #ffa5cf;
+    border-radius: 20px;
+}
